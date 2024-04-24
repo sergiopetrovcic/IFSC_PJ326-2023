@@ -30,5 +30,5 @@ Voluntários:
 * Nelson dos Santos do Nascimento
 * Tatiane Mentges
 
-## Documentação
+# Documentação
 Para acessar a documentação, acesse a página [wiki](https://github.com/sergiopetrovcic/IFSC_PJ326-2023/wiki/Documenta%C3%A7%C3%A3o).
