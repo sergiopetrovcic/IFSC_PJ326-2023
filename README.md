@@ -16,7 +16,7 @@ Execução:
 # Resultados
 
 
-## Equipe do projeto
+# Equipe do projeto
 Coordenador: Prof. Sergio A. B. Petrovcic
 
 Bolsista: Gabriel Mota
