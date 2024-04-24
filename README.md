@@ -1,11 +1,22 @@
-# IFSC_PJ326-2023
-Sistema de monitoramento de espaços físicos 
+# PJ326-2023 - Sistema de monitoramento de espaços físicos 
 
 Projeto de extensão do IFSC Câmpus Itajaí
 
 Execução: 
 
-## Equipe
+# Introdução
+
+
+# Justificativa
+
+
+# Objetivos
+
+
+# Resultados
+
+
+## Equipe do projeto
 Coordenador: Prof. Sergio A. B. Petrovcic
 
 Bolsista: Gabriel Mota
