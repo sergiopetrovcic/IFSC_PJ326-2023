@@ -1,8 +1,6 @@
 # PJ326-2023 - Sistema de monitoramento de espaços físicos 
 
-Projeto de extensão do IFSC Câmpus Itajaí
-
-Execução: 
+Projeto de extensão do IFSC Câmpus Itajaí, executado entre 02/10/2023 a 31/05/2024.
 
 # Introdução
 
