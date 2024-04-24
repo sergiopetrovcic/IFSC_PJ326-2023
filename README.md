@@ -15,7 +15,7 @@ Pontos a serem monitorados: janelas, portas, pontos de luz, computadores, aparel
 
 
 # Equipe do projeto
-Coordenador: Prof. Sergio A. B. Petrovcic, Dr. Eng.
+Coordenador: [Prof. Sergio A. B. Petrovcic, Dr. Eng.](https://sites.google.com/view/sergio-petrovcic)
 
 Bolsista: Gabriel Mota
 
