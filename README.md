@@ -9,7 +9,7 @@ Projeto de extensão do IFSC Câmpus Itajaí, executado entre 02/10/2023 a 31/05
 
 
 # Objetivos
-
+Pontos a serem monitorados: janelas, portas, pontos de luz, computadores, aparelhos de ar condicionado, projetores de vídeo.
 
 # Resultados
 
